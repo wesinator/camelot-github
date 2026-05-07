@@ -55,6 +55,7 @@ All components are developed in the open under permissive licenses, allowing ind
 Public user-space drivers for various SoCs
 
    * ST [USB-OTG-FS](https://github.com/camelot-os-bsp/libdrv-st-usbotg) USB "on-the-go" full-speed drivers for STM32 family
+   * ST [USART](https://github.com/camelot-os-bsp/libdrv-st-usart) driver for all STM32 family
 
 ## Camelot public projects
 
