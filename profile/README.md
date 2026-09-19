@@ -5,7 +5,7 @@
 </a>
 </div>
 
-# A light and secure Operating System for microcontrolers
+# A light and secure Operating System for microcontrollers
 
 Camelot-OS is an open-source operating system ecosystem designed to bring strong security guarantees, robust isolation, and industrial-grade engineering practices to modern IoT and embedded systems. Camelot-OS is the successor of the initial ANSSI [Wookey](https://github.com/wookey-project) project and Ledger [Outpost-OS](https://github.com/outpost-os) developments.
 
